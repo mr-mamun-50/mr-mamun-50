@@ -27,7 +27,7 @@ I love and respect the work of myself and others. I always want to learn from ev
 
 ### Connect with me:
 
-[<img src='./SVG/github-brands.svg' alt='github' height='20' width='30'>](https://github.com/mr-mamun-50) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20' width='30'>](https://www.linkedin.com/in/m-r-mamun/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20' width='30'>](https://www.facebook.com/mamun20172018/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20' width='30'>](https://www.instagram.com/mr_mamun___/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='20' width='30'>](https://www.youtube.com/MamunurRashidMamun)
+[<img src='./SVG/github-brands.svg' alt='github' style="height:'20'; width:'30'; color: "white">](https://github.com/mr-mamun-50) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20' width='30'>](https://www.linkedin.com/in/m-r-mamun/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20' width='30'>](https://www.facebook.com/mamun20172018/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20' width='30'>](https://www.instagram.com/mr_mamun___/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='20' width='30'>](https://www.youtube.com/MamunurRashidMamun)
 
 ---
 
