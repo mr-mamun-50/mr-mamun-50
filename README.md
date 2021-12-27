@@ -42,7 +42,7 @@ I love and respect the work of myself and others. I always want to learn from ev
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mr-mamun-50&theme=radical)
 
-![Profile views](https://gpvc.arturio.dev/mr-mamun-50)
+![Profile views](https://gpvc.arturio.dev/mr-mamun-50&theme=radical)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=mr-mamun-50)](https://github.com/ryo-ma/github-profile-trophy) -->
 
