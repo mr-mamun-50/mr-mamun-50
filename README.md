@@ -6,7 +6,7 @@
 
 I love and respect the work of myself and others. I always want to learn from every moment of life.
 
-##### Skills: PHP / JavaScript / Java / C++ / C / HTML / CSS / Bootstrap
+#### Skills: PHP / JavaScript / Java / C++ / C / HTML / CSS / Bootstrap
 
 -   🔭 I’m currently working on full stack web development
 -   🌱 I’m currently learning cross platform mobile app development
