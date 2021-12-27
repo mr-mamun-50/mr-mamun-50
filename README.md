@@ -19,7 +19,7 @@ I love and respect the work of myself and others. I always want to learn from ev
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </span>
 
-<br />
+<br>
 
 -   🔭 I’m currently working on full stack web development
 -   🌱 I’m currently learning cross platform mobile app development
