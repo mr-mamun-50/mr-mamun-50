@@ -1,8 +1,10 @@
+(https://media-exp1.licdn.com/dms/image/C5616AQH2sehHO2oKjw/profile-displaybackgroundimage-shrink_200_800/0/1615612865938?e=1646265600&v=beta&t=0K7KtesMfjEDgWiOX1OjW5awbGLMlDsw-kg5LcyT5-w)
+
 ### Hi there 👋, my name is Mamunur Rashid Mamun
 
 #### I'm a Web Developer
 
-![I'm a Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQH2sehHO2oKjw/profile-displaybackgroundimage-shrink_200_800/0/1615612865938?e=1646265600&v=beta&t=0K7KtesMfjEDgWiOX1OjW5awbGLMlDsw-kg5LcyT5-w)
+![I'm a Web Developer]
 
 I love and respect the work of myself and others. I always want to learn from every moment of life.
 
