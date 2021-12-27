@@ -1,4 +1,5 @@
 <!-- ![I'm a Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQH2sehHO2oKjw/profile-displaybackgroundimage-shrink_200_800/0/1615612865938?e=1646265600&v=beta&t=0K7KtesMfjEDgWiOX1OjW5awbGLMlDsw-kg5LcyT5-w) -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2D7kSs0v4LLanw2qksYuRlEzO+tcaEPQogQ0KaoGN26/zrn20ImR1DfuLWnOo7aBA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 # Hi there, 👋 my name is Mamunur Rashid Mamun
 
@@ -27,7 +28,7 @@ I love and respect the work of myself and others. I always want to learn from ev
 
 ### Connect with me:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20' width='30'>](https://github.com/mr-mamun-50) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20' width='30'>](https://www.linkedin.com/in/m-r-mamun/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20' width='30'>](https://www.facebook.com/mamun20172018/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20' width='30'>](https://www.instagram.com/mr_mamun___/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='20' width='30'>](https://www.youtube.com/MamunurRashidMamun)
+[<i class="fab fa-github"></i>](https://github.com/mr-mamun-50) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20' width='30'>](https://www.linkedin.com/in/m-r-mamun/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20' width='30'>](https://www.facebook.com/mamun20172018/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20' width='30'>](https://www.instagram.com/mr_mamun___/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='20' width='30'>](https://www.youtube.com/MamunurRashidMamun)
 
 ---
 
