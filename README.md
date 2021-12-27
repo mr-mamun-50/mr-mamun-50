@@ -6,7 +6,7 @@
 
 I love and respect the work of myself and others. I always want to learn from every moment of life.
 
-### Skills: PHP / JavaScript / Java / C++ / C / HTML / CSS / Bootstrap
+### Skills:
 
 <span> 
   <img src="https://img.shields.io/badge/PHP-7175AA?style=for-the-badge&logo=php&logoColor=white">
@@ -17,9 +17,7 @@ I love and respect the work of myself and others. I always want to learn from ev
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-</span>
-
-<br>
+</span></br>
 
 -   🔭 I’m currently working on full stack web development
 -   🌱 I’m currently learning cross platform mobile app development
