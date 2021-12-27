@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Mamunur Rashid Mamun
 
-#### I love and respect the work of myself and others. I always want to learn from every moment of life.
+#### I'm a Web Developer
 
-![I love and respect the work of myself and others. I always want to learn from every moment of life.](https://media-exp1.licdn.com/dms/image/C5616AQH2sehHO2oKjw/profile-displaybackgroundimage-shrink_200_800/0/1615612865938?e=1646265600&v=beta&t=0K7KtesMfjEDgWiOX1OjW5awbGLMlDsw-kg5LcyT5-w)
+![I'm a Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQH2sehHO2oKjw/profile-displaybackgroundimage-shrink_200_800/0/1615612865938?e=1646265600&v=beta&t=0K7KtesMfjEDgWiOX1OjW5awbGLMlDsw-kg5LcyT5-w)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I love and respect the work of myself and others. I always want to learn from every moment of life.
 
 Skills: PHP / JS / HTML / CSS / Bootstrap
 
