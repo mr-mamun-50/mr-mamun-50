@@ -1,11 +1,13 @@
 <!-- ![I'm a Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQH2sehHO2oKjw/profile-displaybackgroundimage-shrink_200_800/0/1615612865938?e=1646265600&v=beta&t=0K7KtesMfjEDgWiOX1OjW5awbGLMlDsw-kg5LcyT5-w) -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2D7kSs0v4LLanw2qksYuRlEzO+tcaEPQogQ0KaoGN26/zrn20ImR1DfuLWnOo7aBA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-# Hi there, 👋 my name is Mamunur Rashid Mamun
+# Hi there, 👋 I'm Mamunur Rashid Mamun
 
-## I'm a Web Developer
+## I'm a full stack Web Developer
 
-I love and respect the work of myself and others. I always want to learn from every moment of life.
+<!-- I love and respect the work of myself and others. I always want to learn from every moment of life. -->
+
+I always love and respect the work of myself and others. I like to work hard all the time. I do not indulge in laziness at all. I always like to learn and teach something new. I always research to discover something new.
 
 ### Skills:
 
@@ -36,7 +38,7 @@ I love and respect the work of myself and others. I always want to learn from ev
 
 <!-- <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-mamun-50&layout=compact&theme=radical&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-mamun-50&layout=compact&theme=radical&hide=html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mr-mamun-50&theme=radical)
 
@@ -44,7 +46,7 @@ I love and respect the work of myself and others. I always want to learn from ev
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mr-mamun-50) -->
 
-<!-- ![Profile views](https://gpvc.arturio.dev/mr-mamun-50) -->
+![Profile views](https://gpvc.arturio.dev/mr-mamun-50)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=mr-mamun-50)](https://github.com/ryo-ma/github-profile-trophy) -->
 
