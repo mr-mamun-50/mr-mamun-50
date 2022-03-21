@@ -27,7 +27,7 @@ I always love and respect the work of myself and others. I like to work hard all
 -   🔭 I’m currently working on full stack web development
 -   🌱 I’m currently learning cross platform mobile app development
 -   👯 I’m looking to collaborate on GitHub
--   💬 Ask me about front-end development
+-   💬 Ask me about full-stack development
 -   📫 How to reach me: Follow my contact information given below...
 
 ### Connect with me:
