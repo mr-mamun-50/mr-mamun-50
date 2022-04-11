@@ -18,6 +18,7 @@ I always love and respect the work of myself and others. I like to work hard all
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/Dart-007BBE?style=for-the-badge&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-41C6F0?style=for-the-badge&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -46,7 +47,7 @@ I always love and respect the work of myself and others. I like to work hard all
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mr-mamun-50) -->
 
-![Profile views](https://gpvc.arturio.dev/mr-mamun-50)
+<!-- ![Profile views](https://gpvc.arturio.dev/mr-mamun-50) -->
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=mr-mamun-50)](https://github.com/ryo-ma/github-profile-trophy) -->
 
