@@ -14,8 +14,6 @@ I work with perfection and find a simple solution to every difficult task.I alwa
 
 <a href="http://mr-mamun.herokuapp.com/" target='blank'>http://mr-mamun.herokuapp.com</a>
 
-<br>
-
 ## Skills:
 
 <span> 
@@ -48,11 +46,11 @@ I work with perfection and find a simple solution to every difficult task.I alwa
 
 <!-- <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-mamun-50&layout=compact&theme=dark&hide=html,css,scss,hack)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-mamun-50&layout=compact&theme=radical&hide=html,css,scss,hack&langs_count=11&card_width=445px&hide_border=true)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mr-mamun-50)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mr-mamun-50&theme=radical&hide_border=true)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-mamun-50&show_icons=true&count_private=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-mamun-50&show_icons=true&count_private=true&theme=radical&hide_border=true)
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mr-mamun-50) -->
 
