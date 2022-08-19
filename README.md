@@ -1,6 +1,3 @@
-<!-- ![I'm a Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQH2sehHO2oKjw/profile-displaybackgroundimage-shrink_200_800/0/1615612865938?e=1646265600&v=beta&t=0K7KtesMfjEDgWiOX1OjW5awbGLMlDsw-kg5LcyT5-w) -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2D7kSs0v4LLanw2qksYuRlEzO+tcaEPQogQ0KaoGN26/zrn20ImR1DfuLWnOo7aBA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-
 # Hi there, 👋 I'm Mamunur Rashid Mamun
 
 ## I'm a full stack Web Developer
@@ -8,7 +5,7 @@
 <!-- I always love and respect the work of myself and others. I like to work hard all the time. I do not indulge in laziness at all. I always like to learn and teach something new. I always research to discover something new. -->
 
 I work with perfection and find a simple solution to every difficult task.I always avoid complexity.I love to do everything simply and smartly.
-<br><br>
+<br>
 
 ## My personal website:
 
