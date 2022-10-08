@@ -1,6 +1,6 @@
 # Hi there, 👋 I'm Mamunur Rashid Mamun
 
-## I'm a full stack Web Developer
+## I'm a full stack Web & Mobile application developer
 
 <!-- I always love and respect the work of myself and others. I like to work hard all the time. I do not indulge in laziness at all. I always like to learn and teach something new. I always research to discover something new. -->
 
@@ -51,7 +51,7 @@ I work with perfection and find a simple solution to every difficult task.I alwa
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mr-mamun-50) -->
 
-<!-- ![Profile views](https://gpvc.arturio.dev/mr-mamun-50) -->
+![Profile views](https://gpvc.arturio.dev/mr-mamun-50)
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=mr-mamun-50)](https://github.com/ryo-ma/github-profile-trophy) -->
 
