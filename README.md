@@ -1,6 +1,6 @@
-# Hi there, 👋 I'm Mamunur Rashid Mamun
+<h1 style="text-align: center; font-weight: bold">Hi there, 👋 I'm Mamunur Rashid Mamun</h1>
 
-## I'm a full stack Web & Mobile application developer
+<h2 style="text-align: center">I'm a full stack Web & Mobile application developer</h2>
 
 <!-- I always love and respect the work of myself and others. I like to work hard all the time. I do not indulge in laziness at all. I always like to learn and teach something new. I always research to discover something new. -->
 
