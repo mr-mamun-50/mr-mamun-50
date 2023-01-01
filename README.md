@@ -4,8 +4,7 @@
 
 <p align="center"> 
 <img src="https://gpvc.arturio.dev/mr-mamun-50" alt="mr-mamun-50" />
-<img src="https://img.shields.io/badge/YouTube-go-red?link=http://Github.com&link=https://www.youtube.com/@CodingWithMamun&logo=youtube">
-<img src="https://img.shields.io/badge/Website-grey?link=http://Github.com&link=https://mrmamun.000webhostapp.com&logo=laravel">
+
 </p>
 
 <!-- I always love and respect the work of myself and others. I like to work hard all the time. I do not indulge in laziness at all. I always like to learn and teach something new. I always research to discover something new. -->
