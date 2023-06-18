@@ -4,10 +4,9 @@
 <br>
 
 <p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=mr-mamun-50&style=flat&color=brightgreen" alt="Views" />
 <img src="https://img.shields.io/github/followers/mr-mamun-50?label=Followers&style=social" alt="Followers" />
 <img src="https://img.shields.io/github/stars/mr-mamun-50?label=Stars" alt="Stars" />
-
+<img src="https://komarev.com/ghpvc/?username=mr-mamun-50&style=flat&color=brightgreen" alt="Views" />
 </p>
 
 <!-- I always love and respect the work of myself and others. I like to work hard all the time. I do not indulge in laziness at all. I always like to learn and teach something new. I always research to discover something new. -->
