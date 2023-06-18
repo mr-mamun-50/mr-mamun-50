@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋 I'm Mamunur Rashid Mamun</h1>
 
-<h2 align="center">I'm a full stack Web & Mobile application developer</h2>
+<h3 align="center">I'm a full stack Web & Mobile application developer</h3>
+<br>
 
 <p align="center"> 
-<img src="https://gpvc.arturio.dev/mr-mamun-50" alt="mr-mamun-50" />
+<img src="https://komarev.com/ghpvc/?username=mr-mamun-50&style=flat&color=brightgreen" alt="Views" />
+<img src="https://img.shields.io/github/followers/mr-mamun-50?label=Followers&style=social" alt="Followers" />
+<img src="https://img.shields.io/github/stars/mr-mamun-50?label=Stars" alt="Stars" />
 
 </p>
 
@@ -21,16 +24,17 @@ I work with perfection and find a simple solution to every difficult task.I alwa
   <img src="https://img.shields.io/badge/JavaScript-EAD41C?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/PHP-7175AA?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Dart-007BBE?style=for-the-badge&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-366C9C?style=for-the-badge&logo=Python&logoColor=F6C437">
-  <img src="https://img.shields.io/badge/Java-4F7B99?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind CSS-151C2C?style=for-the-badge&logo=tailwindcss&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </span><br /><br />
 
--   🔭 I’m currently working on full stack web development
+-   🔭 I’m currently working on full stack web & mobile application development
 -   🌱 I’m interested to develop a web application for you
 -   👯 I’m looking to collaborate on GitHub
 -   💬 Ask me about full-stack development
