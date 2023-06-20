@@ -7,6 +7,8 @@
 <img src="https://img.shields.io/github/followers/mr-mamun-50?label=Followers&style=social" alt="Followers" />
 <img src="https://img.shields.io/github/stars/mr-mamun-50?label=Stars" alt="Stars" />
 <img src="https://komarev.com/ghpvc/?username=mr-mamun-50&style=flat&color=brightgreen" alt="Views" />
+<img src="https://img.shields.io/youtube/channel/subscribers/UCQeFX7M9eBfz4-ObpbfbFgQ" alt="Views" />
+<!-- <img src="https://img.shields.io/youtube/channel/views/UCQeFX7M9eBfz4-ObpbfbFgQ" alt="Views" /> -->
 </p>
 
 <!-- I always love and respect the work of myself and others. I like to work hard all the time. I do not indulge in laziness at all. I always like to learn and teach something new. I always research to discover something new. -->
@@ -41,7 +43,7 @@ I work with perfection and find a simple solution to every difficult task.I alwa
 
 ### Connect with me:
 
-[<img src='./SVG/github-brands.svg' alt='github' height='20' width='30'>](https://github.com/mr-mamun-50) [<img src='./SVG/linkedin-brands.svg' alt='linkedin' height='20' width='30'>](https://www.linkedin.com/in/m-r-mamun/) [<img src='./SVG/facebook-square-brands.svg' alt='facebook' height='20' width='30'>](https://www.facebook.com/mamun20172018/) [<img src='./SVG/instagram-brands.svg' alt='instagram' height='20' width='30'>](https://www.instagram.com/mr_mamun___/) [<img src='./SVG/youtube-brands.svg' alt='YouTube' height='20' width='30'>](https://www.youtube.com/MamunurRashidMamun)
+[<img src='./SVG/email.svg' alt='github' height='20' width='30'>](https://github.com/mr-mamun-50) [<img src='./SVG/linkedin-brands.svg' alt='linkedin' height='20' width='30'>](https://www.linkedin.com/in/m-r-mamun/) [<img src='./SVG/facebook-square-brands.svg' alt='facebook' height='20' width='30'>](https://www.facebook.com/mamun20172018/) [<img src='./SVG/instagram-brands.svg' alt='instagram' height='20' width='30'>](https://www.instagram.com/mr_mamun___/) [<img src='./SVG/youtube-brands.svg' alt='YouTube' height='20' width='30'>](https://www.youtube.com/MamunurRashidMamun)
 
 ### My personal website:
 
