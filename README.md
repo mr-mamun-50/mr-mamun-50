@@ -4,7 +4,7 @@
 <br>
 
 <p align="center"> 
-<img src="https://img.shields.io/github/followers/mr-mamun-50?label=Followers&style=social" alt="Followers" />
+<!-- <img src="https://img.shields.io/github/followers/mr-mamun-50?label=Followers&style=social" alt="Followers" /> -->
 <img src="https://img.shields.io/github/stars/mr-mamun-50?label=Stars" alt="Stars" />
 <img src="https://komarev.com/ghpvc/?username=mr-mamun-50&style=flat&color=brightgreen" alt="Views" />
 <img src="https://img.shields.io/youtube/channel/subscribers/UCQeFX7M9eBfz4-ObpbfbFgQ" alt="Views" />
