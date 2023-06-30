@@ -53,11 +53,11 @@ I work with perfection and find a simple solution to every difficult task.I alwa
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-mamun-50&layout=compact&&theme=transparent&hide=html,css,scss,hack&langs_count=11&hide_border=false&card_width=500px)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-mamun-50&layout=compact&&theme=transparent&hide=html,css,scss,hack&langs_count=11&hide_border=true&card_width=490px)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mr-mamun-50&theme=transparent&hide_border=false&card_width=500px)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mr-mamun-50&theme=transparent&hide_border=true&card_width=490px)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-mamun-50&show_icons=true&count_private=true&theme=transparent&hide_border=false&card_width=500px)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-mamun-50&show_icons=true&count_private=true&theme=transparent&hide_border=true&card_width=490px)
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mr-mamun-50) -->
 
