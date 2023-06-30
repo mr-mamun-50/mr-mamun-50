@@ -1,4 +1,4 @@
-<br /><br />
+<br />
 
 <h1 align="center">Hi 👋 I'm Mamunur Rashid Mamun</h1>
 
@@ -7,9 +7,9 @@
 
 <p align="center"> 
 <!-- <img src="https://img.shields.io/github/followers/mr-mamun-50?label=Followers&style=social" alt="Followers" /> -->
-<img src="https://img.shields.io/github/stars/mr-mamun-50?label=Stars&style=social" alt="Stars" /> ·
-<img src="https://komarev.com/ghpvc/?username=mr-mamun-50&style=flat&color=brightgreen" alt="Views" /> ·
-<img src="https://img.shields.io/youtube/channel/subscribers/UCQeFX7M9eBfz4-ObpbfbFgQ" alt="Views" /> ·
+<img src="https://img.shields.io/github/stars/mr-mamun-50?label=Stars&style=flat&color=blue" alt="Stars" /> ˙
+<img src="https://komarev.com/ghpvc/?username=mr-mamun-50&style=flat&color=6749C6" alt="Views" /> ˙
+<img src="https://img.shields.io/youtube/channel/subscribers/UCQeFX7M9eBfz4-ObpbfbFgQ" alt="Views" /> ˙
 <img src="https://img.shields.io/youtube/channel/views/UCQeFX7M9eBfz4-ObpbfbFgQ" alt="Views" />
 </p>
 
@@ -53,17 +53,13 @@ I work with perfection and find a simple solution to every difficult task.I alwa
 
 ---
 
-<!-- <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-mamun-50&layout=compact&&theme=transparent&hide=html,css,scss,hack&langs_count=11&hide_border=false&card_width=500px)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-mamun-50&layout=compact&theme=radical&hide=html,css,scss,hack&langs_count=11&card_width=445px&hide_border=true)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mr-mamun-50&theme=transparent&hide_border=false&card_width=500px)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mr-mamun-50&theme=radical&hide_border=true)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-mamun-50&show_icons=true&count_private=true&theme=radical&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-mamun-50&show_icons=true&count_private=true&theme=transparent&hide_border=false&card_width=500px)
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mr-mamun-50) -->
-
-<!-- ![Profile views](https://gpvc.arturio.dev/mr-mamun-50) -->
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=mr-mamun-50)](https://github.com/ryo-ma/github-profile-trophy) -->
 
