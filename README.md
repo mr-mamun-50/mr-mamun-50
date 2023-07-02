@@ -22,30 +22,36 @@ I work with perfection and find a simple solution to every difficult task.I alwa
 
 #### Front-End
 
-<img src="https://img.shields.io/badge/React-5ED4F3?style=for-the-badge&logo=react&logoColor=black" style='border-radius:10px'>
-<img src="https://img.shields.io/badge/Flutter-41C6F0?style=for-the-badge&logo=flutter&logoColor=white" style='border-radius:10px'>
-<img src="https://img.shields.io/badge/JavaScript-EAD41C?style=for-the-badge&logo=javascript&logoColor=black" style='border-radius:10px'>
-<img src="https://img.shields.io/badge/Dart-007BBE?style=for-the-badge&logo=dart&logoColor=white" style='border-radius:10px'>
-<img src="https://img.shields.io/badge/Material UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" style='border-radius:10px'>
-<img src="https://img.shields.io/badge/Tailwind CSS-151C2C?style=for-the-badge&logo=tailwindcss&logoColor=white" style='border-radius:10px'>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" style='border-radius:10px'>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" style='border-radius:10px'>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" style='border-radius:10px'>
+<span>
+  <img src="https://img.shields.io/badge/React-5ED4F3?style=for-the-badge&logo=react&logoColor=black" style='border-radius:10px'>
+  <img src="https://img.shields.io/badge/Flutter-41C6F0?style=for-the-badge&logo=flutter&logoColor=white" style='border-radius:10px'>
+  <img src="https://img.shields.io/badge/JavaScript-EAD41C?style=for-the-badge&logo=javascript&logoColor=black" style='border-radius:10px'>
+  <img src="https://img.shields.io/badge/Dart-007BBE?style=for-the-badge&logo=dart&logoColor=white" style='border-radius:10px'>
+  <img src="https://img.shields.io/badge/Material UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" style='border-radius:10px'>
+  <img src="https://img.shields.io/badge/Tailwind CSS-151C2C?style=for-the-badge&logo=tailwindcss&logoColor=white" style='border-radius:10px'>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" style='border-radius:10px'>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" style='border-radius:10px'>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" style='border-radius:10px'>
+</span>
 
 #### Back-End & Database
 
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" style='border-radius:10px'>
-<img src="https://img.shields.io/badge/PHP-7175AA?style=for-the-badge&logo=php&logoColor=white" style='border-radius:10px'>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" style='border-radius:10px'>
-<img src="https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=Firebase&logoColor=white" style='border-radius:10px'>
-<img src="https://img.shields.io/badge/MySQL-47809D?style=for-the-badge&logo=MySQL&logoColor=white" style='border-radius:10px'>
-<img src="https://img.shields.io/badge/postgresql-679CC7?style=for-the-badge&logo=postgresql&logoColor=white" style='border-radius:10px'>
+<span>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" style='border-radius:10px'>
+  <img src="https://img.shields.io/badge/PHP-7175AA?style=for-the-badge&logo=php&logoColor=white" style='border-radius:10px'>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" style='border-radius:10px'>
+  <img src="https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=Firebase&logoColor=white" style='border-radius:10px'>
+  <img src="https://img.shields.io/badge/MySQL-47809D?style=for-the-badge&logo=MySQL&logoColor=white" style='border-radius:10px'>
+  <img src="https://img.shields.io/badge/postgresql-679CC7?style=for-the-badge&logo=postgresql&logoColor=white" style='border-radius:10px'>
+</span>
 
 #### Other
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style='border-radius:10px'>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style='border-radius:10px'>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" style='border-radius:10px'>
+<span>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style='border-radius:10px'>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style='border-radius:10px'>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" style='border-radius:10px'>
+</span>
 
 <br />
 
