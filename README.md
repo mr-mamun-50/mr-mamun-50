@@ -23,12 +23,12 @@ I work with perfection and find a simple solution to every difficult task.I alwa
 #### Front-End
 
 <span>
-  <img src="https://img.shields.io/badge/React-5ED4F3?style=for-the-badge&logo=react&logoColor=black" style='border-radius:10px'>
-  <img src="https://img.shields.io/badge/Flutter-41C6F0?style=for-the-badge&logo=flutter&logoColor=white" style='border-radius:10px'>
-  <img src="https://img.shields.io/badge/JavaScript-EAD41C?style=for-the-badge&logo=javascript&logoColor=black" style='border-radius:10px'>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A" style="border-radius: 20%;">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" style='border-radius:10px'>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style='border-radius:10px'>
   <img src="https://img.shields.io/badge/Dart-007BBE?style=for-the-badge&logo=dart&logoColor=white" style='border-radius:10px'>
   <img src="https://img.shields.io/badge/Material UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" style='border-radius:10px'>
-  <img src="https://img.shields.io/badge/Tailwind CSS-151C2C?style=for-the-badge&logo=tailwindcss&logoColor=white" style='border-radius:10px'>
+  <img src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" style='border-radius:10px'>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" style='border-radius:10px'>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" style='border-radius:10px'>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" style='border-radius:10px'>
@@ -41,8 +41,8 @@ I work with perfection and find a simple solution to every difficult task.I alwa
   <img src="https://img.shields.io/badge/PHP-7175AA?style=for-the-badge&logo=php&logoColor=white" style='border-radius:10px'>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" style='border-radius:10px'>
   <img src="https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=Firebase&logoColor=white" style='border-radius:10px'>
-  <img src="https://img.shields.io/badge/MySQL-47809D?style=for-the-badge&logo=MySQL&logoColor=white" style='border-radius:10px'>
-  <img src="https://img.shields.io/badge/postgresql-679CC7?style=for-the-badge&logo=postgresql&logoColor=white" style='border-radius:10px'>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=MySQL&logoColor=white" style='border-radius:10px'>
+  <img src="https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white" style='border-radius:10px'>
 </span>
 
 #### Other
