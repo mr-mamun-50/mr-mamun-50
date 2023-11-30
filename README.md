@@ -64,9 +64,11 @@ I always avoid complexity.I love to do everything simply and smartly.
 
   <br />
 
+</div>
+
 ---
 
-<span align="left" >
+<div>
 
 -   🔭 I’m currently working on full stack web & mobile application development
 -   🌱 I’m interested to develop a web application for you
@@ -74,7 +76,7 @@ I always avoid complexity.I love to do everything simply and smartly.
 -   💬 Ask me about full-stack development
 -   📫 How to reach me: Follow my contact information given below...
 
-</span>
+</div>
 </br>
 
 ### Connect with me:
@@ -98,8 +100,6 @@ I always avoid complexity.I love to do everything simply and smartly.
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mr-mamun-50&theme=transparent&hide_border=true&card_width=490px)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-mamun-50&show_icons=true&count_private=true&theme=transparent&hide_border=true&card_width=490px)
-
-</div>
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mr-mamun-50) -->
 
