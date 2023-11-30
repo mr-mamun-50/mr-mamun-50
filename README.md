@@ -21,7 +21,7 @@
 <div>
 I work with perfection and find a simple solution to every difficult task.
 
-I always avoid complexity.I love to do everything simply and smartly.
+I always avoid complexity. I love to do everything simply and smartly.
 
 </div>
 </br>
