@@ -68,7 +68,7 @@ I always avoid complexity.I love to do everything simply and smartly.
 
 ---
 
-<div>
+<p>
 
 -   🔭 I’m currently working on full stack web & mobile application development
 -   🌱 I’m interested to develop a web application for you
@@ -76,8 +76,7 @@ I always avoid complexity.I love to do everything simply and smartly.
 -   💬 Ask me about full-stack development
 -   📫 How to reach me: Follow my contact information given below...
 
-</div>
-</br>
+</p>
 
 ### Connect with me:
 
