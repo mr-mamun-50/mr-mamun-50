@@ -18,10 +18,12 @@
 
   <!-- I always love and respect the work of myself and others. I like to work hard all the time. I do not indulge in laziness at all. I always like to learn and teach something new. I always research to discover something new. -->
 
-  <p style="width:500px">
-  I work with perfection and find a simple solution to every difficult task.I always avoid complexity.I love to do everything simply and smartly.
-  </p>
-  <br>
+<div style="width: 50%;">
+
+I work with perfection and find a simple solution to every difficult task.I always avoid complexity.I love to do everything simply and smartly.
+
+</div>
+</br>
 
 ## Languages and frameworks that I work with:
 
@@ -72,6 +74,7 @@
 -   📫 How to reach me: Follow my contact information given below...
 
 </div>
+</br>
 
 ### Connect with me:
 
