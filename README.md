@@ -18,11 +18,11 @@
 
   <!-- I always love and respect the work of myself and others. I like to work hard all the time. I do not indulge in laziness at all. I always like to learn and teach something new. I always research to discover something new. -->
 
-<div style="width: 50%;">
+<!-- <div style="width: 50%;">
 
 I work with perfection and find a simple solution to every difficult task.I always avoid complexity.I love to do everything simply and smartly.
 
-</div>
+</div> -->
 </br>
 
 ## Languages and frameworks that I work with:
@@ -65,7 +65,7 @@ I work with perfection and find a simple solution to every difficult task.I alwa
 
 ---
 
-<div align="left" style="width:500px">
+<!-- <div align="left" style="width:500px">
 
 -   🔭 I’m currently working on full stack web & mobile application development
 -   🌱 I’m interested to develop a web application for you
@@ -73,7 +73,7 @@ I work with perfection and find a simple solution to every difficult task.I alwa
 -   💬 Ask me about full-stack development
 -   📫 How to reach me: Follow my contact information given below...
 
-</div>
+</div> -->
 </br>
 
 ### Connect with me:
