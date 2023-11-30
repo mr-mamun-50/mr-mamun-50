@@ -78,6 +78,8 @@ I always avoid complexity.I love to do everything simply and smartly.
 
 </p>
 
+---
+
 ### Connect with me:
 
 [<img src='./SVG/email.svg' alt='github' height='20' width='30'>](mailto:mrmamun20162017@gmail.com)
