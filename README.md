@@ -92,15 +92,13 @@ I always avoid complexity.I love to do everything simply and smartly.
 
 [https://mrmamun.com](https://mrmamun.000webhostapp.com)
 
----
+<!-- --- -->
 
-  <!-- <div align="center"> -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-mamun-50&layout=compact&&theme=transparent&hide=html,css,scss,hack&langs_count=11&hide_border=true&card_width=490px) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-mamun-50&layout=compact&&theme=transparent&hide=html,css,scss,hack&langs_count=11&hide_border=true&card_width=490px)
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mr-mamun-50&theme=transparent&hide_border=true&card_width=490px) -->
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mr-mamun-50&theme=transparent&hide_border=true&card_width=490px)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-mamun-50&show_icons=true&count_private=true&theme=transparent&hide_border=true&card_width=490px)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-mamun-50&show_icons=true&count_private=true&theme=transparent&hide_border=true&card_width=490px) -->
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mr-mamun-50) -->
 
