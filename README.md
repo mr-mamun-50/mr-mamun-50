@@ -33,6 +33,7 @@ I always avoid complexity. I love to do everything simply and smartly.
   <span>
     <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" title="React JS" width="40" hspace="5">
     <img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" title="Flutter" width="40" hspace="5">
+    <img src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png" title="Vuw.js" width="40" hspace="5">
     <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" title="JavaScript" width="40" hspace="5">
     <img src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" title="Dart" width="40" hspace="5">
     <img src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35" title="Vite" width="40" hspace="5">
@@ -56,11 +57,11 @@ I always avoid complexity. I love to do everything simply and smartly.
 #### Other
 
   <span>
-    <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" title="AWS" width="40" hspace="5">
     <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" title="Python" width="40" hspace="5">
     <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" title="Java" width="40" hspace="5">
     <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" title="C++" width="40" hspace="5">
     <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" title="C" width="40" hspace="5">
+    <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" title="AWS" width="40" hspace="5">
   </span>
 
   <br />
