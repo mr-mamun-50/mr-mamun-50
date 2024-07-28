@@ -49,8 +49,11 @@ I always avoid complexity. I love to do everything simply and smartly.
   <span>
     <img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" title="Laravel" width="40" hspace="5">
     <img src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" title="PHP" width="40" hspace="5">
+    <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" title="Express JS" width="40" hspace="5">
+    <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" title="Node JS" width="40" hspace="5">
     <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" title="Firebase" width="40" hspace="5">
     <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" title="MySQL" width="40" hspace="5">
+    <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" title="MongoDB" width="40" hspace="5">
     <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" title="PostgreSQL" width="40" hspace="5">
   </span>
 
@@ -92,7 +95,7 @@ I always avoid complexity. I love to do everything simply and smartly.
 
 ### My personal website:
 
-[https://mrmamun.com](https://mrmamun.000webhostapp.com)
+[http://mrmamun.rf.gd](http://mrmamun.rf.gd)
 
 <!-- --- -->
 
