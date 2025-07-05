@@ -48,53 +48,69 @@ delivering robust solutions in dynamic environments.
       <th>Project</th>
       <th>Description</th>
       <!-- <th>Technologies</th> -->
+      <th>Duration</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://dokani.cloud">Dokani</a> - A SaaS-Based POS & Business Automation Software</td>
+      <td>Working on implementing a complete subscription system, as well as a comprehensive business and client area management system</td>
+      <!-- <td>Vue.js, Laravel, MySQL</td> -->
+      <td>Jun 2025 - Present</td>
+    </tr>
+    <tr>
       <td><a href="https://www.nemc.edu.bd">NEMCH</a></td>
       <td>Hospital appointment system with advanced search, booking, payment collection, SMS service, two-step verification, API key, and custom CMS</td>
       <!-- <td>Vue.js, Laravel, MySQL</td> -->
+      <td>Aug 2024 - Oct 2024</td>
     </tr>
     <tr>
       <td><a href="https://kanbird.com">KanBird CRM</a></td>
       <td>Customer Relationship Management Software for managing customer interactions, sales leads, service tickets, and billing</td>
       <!-- <td>Vue.js, Laravel, MySQL</td> -->
+      <td>Dec 2024 - Feb 2025</td>
     </tr>
     <tr>
       <td><a href="https://vaylora.co.uk">Vaylora.co.uk</a></td>
       <td>UK-based multi-vendor eCommerce platform with product sales, POS, orders, subscriptions, and vendor management</td>
       <!-- <td>Nuxt.js, Laravel, MySQL</td> -->
+      <td>Nov 2024 - Jan 2025</td>
     </tr>
     <tr>
       <td><a href="https://play.google.com/store/apps/details?id=com.easyride">Easy Ride</a></td>
       <td>Riding app with dynamic fare calculation, location tracking, earning management, multi factor authentication, device verification, offline mode, subscription system, and admin panel</td>
       <!-- <td>Flutter, Vue.js, Laravel, MySQL</td> -->
+      <td>May 2024 - Jun 2024</td>
     </tr>
     <tr>
       <td><a href="https://ai-health.org.uk">GramGP Clinic</a></td>
       <td>Clinic management software for Bangladesh Rural Primary Health Initiative (BRPHI) - manages 20+ clinics</td>
       <!-- <td>React.js, Laravel, MySQL</td> -->
+      <td>Sep 2023 - Nov 2023</td>
     </tr>
     <tr>
       <td><a href="https://www.linkedin.com/in/m-r-mamun/details/projects">Smart UP</a></td>
       <td>Union Automation Software for Bangladesh - automates tax collection, license issuance, certificate generation</td>
       <!-- <td>React.js, Laravel, MySQL</td> -->
+      <td>Apr 2024 - May 2024</td>
     </tr>
     <tr>
       <td><a href="https://www.linkedin.com/posts/m-r-mamun_thrilled-to-announce-the-completion-of-activity-7215046037424496642-5DLW?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAC2L5HgB3DvQu6NXiiymSDmjGUOx_hem8Hw">TLES MU</a></td>
       <td>Teaching-learning evaluation system assessing student achievement and teacher effectiveness with a comprehensive report based on Bloom's levels</td>  
       <!-- <td>React.js, Laravel, MySQL</td> -->
+      <td>Jul 2023 - Dec 2023</td>
     </tr>
     <tr>
       <td><a href="https://play.google.com/store/apps/details?id=com.porowa.porowa">Porowa (পড়ুয়া)</a></td>
       <td>Live exam and educational resource platform for Bangladeshi learners with live MCQ exams, merit list, progress tracking, etc.</td>
       <!-- <td>Flutter, React.js, Laravel, MySQL</td> -->
+      <td>Mar 2023 - May 2023</td>
     </tr>
     <tr>
       <td><a href="https://quickappliancesfix.co.uk">QuickFix Appliances</a></td>
       <td>UK-based appliance fixing shop website with dynamic admin panel and user management</td>
       <!-- <td>Vue.js, Laravel, MySQL</td> -->
+      <td>Apr 2025</td>
     </tr>
   </tbody>
 </table>
@@ -146,31 +162,31 @@ delivering robust solutions in dynamic environments.
 
   <br />
 
-<!-- ---
+  <!-- ---
 
-<p>
+  <p>
 
--   🔭 I’m currently working on full stack web & mobile application development
--   🌱 I’m interested to develop a web application for you
--   👯 I’m looking to collaborate on GitHub
--   💬 Ask me about full-stack development
--   📫 How to reach me: Follow my contact information given below...
+  -   🔭 I’m currently working on full stack web & mobile application development
+  -   🌱 I’m interested to develop a web application for you
+  -   👯 I’m looking to collaborate on GitHub
+  -   💬 Ask me about full-stack development
+  -   📫 How to reach me: Follow my contact information given below...
 
-</p> -->
+  </p> -->
 
 ---
 
 ### Connect with me...
 
 [<img src='./SVG/email.svg' alt='github' height='20' width='30'>](mailto:mrmamun20162017@gmail.com)
-[<img src='./SVG/linkedin-brands.svg' alt='linkedin' height='20' width='30'>](https://www.linkedin.com/in/m-r-mamun/)
-[<img src='./SVG/facebook-square-brands.svg' alt='facebook' height='20' width='30'>](https://www.facebook.com/mamun20172018/)
-[<img src='./SVG/instagram-brands.svg' alt='instagram' height='20' width='30'>](https://www.instagram.com/mr_mamun___/)
+[<img src='./SVG/linkedin-brands.svg' alt='linkedin' height='20' width='30'>](https://www.linkedin.com/in/m-r-mamun)
+[<img src='./SVG/facebook-square-brands.svg' alt='facebook' height='20' width='30'>](https://www.facebook.com/mrmamun20152016)
+[<img src='./SVG/instagram-brands.svg' alt='instagram' height='20' width='30'>](https://www.instagram.com/mr_mamun___)
 [<img src='./SVG/youtube-brands.svg' alt='YouTube' height='20' width='30'>](https://www.youtube.com/MamunurRashidMamun)
 
-<!-- ### My personal website:
+  <!-- ### My personal website:
 
-[https://mamun.elezenrnd.com](https://mamun.elezenrnd.com) -->
+  [https://mamun.elezenrnd.com](https://mamun.elezenrnd.com) -->
 
 </div>
 
