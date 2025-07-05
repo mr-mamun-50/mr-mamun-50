@@ -180,19 +180,19 @@ delivering robust solutions in dynamic environments.
 
   <span>
     <a href="mailto:mrmamun20162017@gmail.com">
-      <img src="./SVG/email.svg" alt='github' height='20' width='30'>
+      <img src="./SVG/email.svg" alt='github' width="20" hspace="5">
     </a>
     <a href="https://www.linkedin.com/in/m-r-mamun">
-      <img src='./SVG/linkedin-brands.svg' alt='linkedin' height='20' width='30'>
+      <img src='./SVG/linkedin-brands.svg' alt='linkedin' width="20" hspace="5">
     </a>
     <a href="https://www.facebook.com/mrmamun20152016">
-      <img src='./SVG/facebook-square-brands.svg' alt='facebook' height='20' width='30'>
+      <img src='./SVG/facebook-square-brands.svg' alt='facebook' width="20" hspace="5">
     </a>
     <a href="https://www.instagram.com/mr_mamun___">
-      <img src='./SVG/instagram-brands.svg' alt='instagram' height='20' width='30'>
+      <img src='./SVG/instagram-brands.svg' alt='instagram' width="20" hspace="5">
     </a>
     <a href="https://www.youtube.com/MamunurRashidMamun">
-      <img src='./SVG/youtube-brands.svg' alt='YouTube' height='20' width='30'>
+      <img src='./SVG/youtube-brands.svg' alt='YouTube' width="23" hspace="5">
     </a>
   </span>
 
