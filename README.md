@@ -71,7 +71,7 @@ delivering robust solutions in dynamic environments.
       <td>Dec 2024 - Feb 2025</td>
     </tr>
     <tr>
-      <td><a href="https://vaylora.co.uk">Vaylora.co.uk</a></td>
+      <td><a href="https://vaylora.co.uk">Vaylora</a> - ECommerce</td>
       <td>UK-based multi-vendor eCommerce platform with product sales, POS, orders, subscriptions, and vendor management</td>
       <!-- <td>Nuxt.js, Laravel, MySQL</td> -->
       <td>Nov 2024 - Jan 2025</td>
@@ -178,11 +178,23 @@ delivering robust solutions in dynamic environments.
 
 ### Connect with me...
 
-[<img src='./SVG/email.svg' alt='github' height='20' width='30'>](mailto:mrmamun20162017@gmail.com)
-[<img src='./SVG/linkedin-brands.svg' alt='linkedin' height='20' width='30'>](https://www.linkedin.com/in/m-r-mamun)
-[<img src='./SVG/facebook-square-brands.svg' alt='facebook' height='20' width='30'>](https://www.facebook.com/mrmamun20152016)
-[<img src='./SVG/instagram-brands.svg' alt='instagram' height='20' width='30'>](https://www.instagram.com/mr_mamun___)
-[<img src='./SVG/youtube-brands.svg' alt='YouTube' height='20' width='30'>](https://www.youtube.com/MamunurRashidMamun)
+  <span>
+    <a href="mailto:mrmamun20162017@gmail.com">
+      <img src="./SVG/email.svg" alt='github' height='20' width='30'>
+    </a>
+    <a href="https://www.linkedin.com/in/m-r-mamun">
+      <img src='./SVG/linkedin-brands.svg' alt='linkedin' height='20' width='30'>
+    </a>
+    <a href="https://www.facebook.com/mrmamun20152016">
+      <img src='./SVG/facebook-square-brands.svg' alt='facebook' height='20' width='30'>
+    </a>
+    <a href="https://www.instagram.com/mr_mamun___">
+      <img src='./SVG/instagram-brands.svg' alt='instagram' height='20' width='30'>
+    </a>
+    <a href="https://www.youtube.com/MamunurRashidMamun">
+      <img src='./SVG/youtube-brands.svg' alt='YouTube' height='20' width='30'>
+    </a>
+  </span>
 
   <!-- ### My personal website:
 
