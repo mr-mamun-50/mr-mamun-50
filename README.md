@@ -97,7 +97,7 @@ delivering robust solutions in dynamic environments.
       <td>May 2024 - Jun 2024</td>
     </tr>
     <tr>
-      <td><a href="https://ai-health.org.uk">GramGP Clinic</a></td>
+      <td><a href="https://brphi.org">GramGP Clinic</a></td>
       <td>Clinic management software for Bangladesh Rural Primary Health Initiative (BRPHI) - manages 20+ clinics</td>
       <!-- <td>React.js, Laravel, MySQL</td> -->
       <td>Sep 2023 - Nov 2023</td>
