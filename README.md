@@ -53,10 +53,24 @@ delivering robust solutions in dynamic environments.
   </thead>
   <tbody>
     <tr>
+      <td><a href="http://emr.globahealth.ai-health.org.uk">GlobaHealth EMR</a>
+        - A comprehensive Electronic Medical Record (EMR) system for clinics and hospitals
+      </td>
+      <td>
+        Working as the lead developer on this project, responsible for designing and implementing key features such as AI based consultation,
+        appointment scheduling, patient management, billing, reporting, and analytics.
+      </td>
+      <!-- <td>React-Next, Laravel, MySQL</td> -->
+      <td>Oct 2025 - Present</td>
+    </tr>
+    <tr>
       <td><a href="https://dokani.cloud">Dokani</a> - A SaaS-Based POS & Business Automation Software</td>
-      <td>Working on implementing a complete subscription system, as well as a comprehensive business and client area management system</td>
+      <td>
+        Worked on implementing a complete subscription system, as well as a comprehensive business and client area management system.
+        Also worked on continuous feature additions, bug fixes, performance improvements, and security enhancements.
+      </td>
       <!-- <td>Vue.js, Laravel, MySQL</td> -->
-      <td>Jun 2025 - Present</td>
+      <td>Jun 2025 - Sep 2025</td>
     </tr>
     <tr>
       <td><a href="https://www.nemc.edu.bd">NEMCH</a></td>
